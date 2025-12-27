@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working of react projects and final year project waste wise ai <br>I'm learning and exploring react and related libraries . I'm good in web development , cloud and databases 
+👋 Hi, I’m Mohd Kaif
+
+🚀 Full-Stack Developer | React Enthusiast | AI & Cloud Learner
+
+I’m a Computer Science student who loves building scalable, user-friendly web applications and experimenting with modern technologies. I’m currently working on React-based projects and my final-year project WasteWise AI, which uses Machine Learning to identify waste and recommend safe, eco-friendly disposal methods.
+
+I enjoy turning ideas into real products, learning by building, and continuously improving my problem-solving and development skills.
 
 
 ## 🌐 Socials:
